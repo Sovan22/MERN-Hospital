@@ -104,7 +104,6 @@ p{
 /* authentication pages */
 
 .authentication{
-  background-image: url("C:\Users\saman\Desktop\Doctor-appointment-booking-app-master\bg.png");
   background-size: cover;
    height: 100vh;
    display: flex;
