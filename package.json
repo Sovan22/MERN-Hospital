@@ -44,5 +44,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://mern-hospital-back-end.vercel.app/"
+  "proxy": "https://mern-hospital-back-end.vercel.app"
 }
